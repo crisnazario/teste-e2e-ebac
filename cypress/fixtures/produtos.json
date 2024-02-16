@@ -1,0 +1,50 @@
+[
+    {
+        "nomeProduto": "Apollo Running Short",
+        "tamanho": "34",
+        "cor": "Black",
+        "quantidade": 4
+    },
+    {
+        "nomeProduto": "Hera Pullover Hoodie",
+        "tamanho": "L",
+        "cor": "Orange",
+        "quantidade": 10
+    },
+    {
+        "nomeProduto": "Mona Pullover Hoodlie",
+        "tamanho": "XS",
+        "cor": "Purple",
+        "quantidade": 56
+    },
+    {
+        "nomeProduto": "Phoebe Zipper Sweatshirt",
+        "tamanho": "S",
+        "cor": "White",
+        "quantidade": 17
+    },
+    {
+        "nomeProduto": "Zoltan Gym Tee",
+        "tamanho": "M",
+        "cor": "Yellow",
+        "quantidade": 3
+    },
+    {
+        "nomeProduto": "Zeppelin Yoga Pant",
+        "tamanho": "32",
+        "cor": "Blue",
+        "quantidade": 15
+    },
+    {
+        "nomeProduto": "Stellar Solar Jacket",
+        "tamanho": "L",
+        "cor": "Red",
+        "quantidade": 36
+    },
+    {
+        "nomeProduto": "Electra Bra Top",
+        "tamanho": "XL",
+        "cor": "Gray",
+        "quantidade": 10
+    }
+]
